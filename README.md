@@ -27,7 +27,7 @@ Two approaches were explored:
 Used for
 Band gap prediction
 2. Logistic Regression
-Used for:
+Used for
 Material classification
 ## Methodology
 - Data extraction using mp-api
