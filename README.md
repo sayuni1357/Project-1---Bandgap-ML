@@ -21,6 +21,14 @@ properties
   - efermi
   - is_magnetic
 
+## Model Development
+Two approaches were explored:
+1. Linear Regression
+Used for
+Band gap prediction
+2. Logistic Regression
+Used for:
+Material classification
 ## Methodology
 - Data extraction using mp-api
 - Feature preprocessing and encoding
