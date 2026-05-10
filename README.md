@@ -1,7 +1,16 @@
-# Band Gap Prediction Using Materials Informatics
+# Band Gap Prediction and Material Classification Using Materials Informatics
 
 ## Overview
 This project explores the use of machine learning to predict the electronic band gap of crystalline materials using data from the Materials Project.
+It focuses on predicting the band gap of materials and classifying them into:
+
+- Conductors
+- Semiconductors
+- Insulators
+using Machine Learning techniques.
+The dataset was collected using the Materials Project API and processed using Python.
+The primary goal of the project was to explore the relationship between material descriptors and electronic
+properties
 
 ## Dataset
 - Source: Materials Project
