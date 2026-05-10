@@ -7,6 +7,7 @@ It focuses on predicting the band gap of materials and classifying them into:
 - Conductors
 - Semiconductors
 - Insulators
+
 using Machine Learning techniques.
 The dataset was collected using the Materials Project API and processed using Python.
 The primary goal of the project was to explore the relationship between material descriptors and electronic
