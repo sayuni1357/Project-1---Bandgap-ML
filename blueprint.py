@@ -50,7 +50,7 @@ print(df_all["label"].value_counts())
 from mp_api.client import MPRester
 
 # Replace this with your actual API key (stored securely if possible)
-MAPI_KEY = "SS3reUV9Y5n9UtyavCqkimWscPqnDW03"
+os.getenv("MAPI_KEY")
 # Create the client and query
 with MPRester(MAPI_KEY) as mpr:
     # Use the new API endpoint: materials.summary.search()
